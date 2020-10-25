@@ -25,8 +25,8 @@ echo "   1. Boot2Root    "
 echo "   2. JustRoot     "
 echo
 echo "Does it hard to choose just watch this video Before use"
-echo "Tamil   https://youtu.be/s7tm_cDgQQg   "
-echo "English   ( comming soon )            "
+
+
 echo     
 echo "Version 1.1"
 
@@ -76,13 +76,3 @@ fi
 echo
 echo "Root credits to Anlinux"
 echo "Tool created by Ajay"
-echo
-echo
-echo "contact me on :"
-echo "Telegram  : Tamilhackz ( public group )"
-echo "Instagram : tamilhackz_ "
-echo "Twitter   : TamilHackz "
-echo
-echo
-echo "Youtube : Tamilhackz "
-echo "https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA "
